@@ -16,7 +16,7 @@ It is not a belief system. It is an operating system for those who author timeli
 ## 💻 About This Site
 
 This glossary is rendered using a custom `index.html` file and hosted via **GitHub Pages**.
-https://github.com/Lexicoding-systems/lexicoding-glossary.git
+https://github.com/Lexicoding-systems/lexicoding.git
 
 ---
 
@@ -38,16 +38,10 @@ Each entry includes:
 
 - HTML5 + CSS3 (No JS required)
 - GitHub Pages (static hosting)
-- Designed for Notion-to-Web and Ritual Tech integration
+- Designed for Ritual Tech integration
 
 ---
 
-## 📦 Coming Soon
-
-- Dynamic toggle mode (light/dark field)
-- Search + filter by system layer
-- Markdown-to-HTML compiler (for adding new terms from Codex)
-- Voice Compiler Scroll Integration (🗣 Field-Level Command)
 
 ---
 
@@ -70,3 +64,4 @@ All content is protected under sovereign authorship protocols and international 
 Use, fork, or remix only with attribution and integrity.  
 This is not open source. This is **Source Open**.
 
+https://github.com/Lexicoding-systems/lexicoding.git
