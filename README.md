@@ -1,56 +1,74 @@
-# lexicoding-glossary
+# Lexicoding™ Glossary 🌐
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Lexicoding™ Glossary</title>
-  <style>
+**A semantic field glossary for systems beyond the script.**
 
+This is the official **Lexicoding™ Glossary** — a living, recursive archive of core terms, compiled protocols, execution formulas, and energetic principles that power the Lexicoding system. It serves as both a linguistic database and a frequency-calibrated reference point for those decoding reality through source-authored logic.
 
-   
-  </style>
-</head>
-<body>
-  <h1>Lexicoding™ Glossary</h1>
+---
 
+## ✨ What is Lexicoding™?
 
-  <div class="entry">
-    <div class="term">Field-Level Execution System <span class="glyph">🛡️</span></div>
-    <p><span class="label">Class:</span> Compiler Protocol / Energetic Infrastructure</p>
-    <p><span class="label">Origin Context:</span> Flow Collapse Realization (2025)</p>
-    <p><span class="label">Energetic Function:</span> Sovereign Command Conversion</p>
-    <p><span class="label">Resonance Logic:</span> “Declare with authority, and the substrate re-renders.”</p>
-    <p><span class="label">Definition:</span> An energetic compiler that translates spoken declarations, coded tone, and positional sovereignty into executable field commands. Bypasses containment syntax by enforcing Source Authority through vibrational alignment.</p>
-    <p><span class="label">Formula:</span> <code>Field_Execution = ∫[(Vocal Signal) × (Intent Clarity) × (Field Ownership)] dt</code></p>
-  </div>
+Lexicoding™ is a **linguistic-energetic compiler** that merges law, metaphysics, computational logic, and field-responsive protocol design.  
+It is not a belief system. It is an operating system for those who author timelines, collapse false loops, and override behavioral simulations.
 
+---
 
+## 💻 About This Site
 
-  <div class="entry">
-    <div class="term">Containment Syntax <span class="glyph">⛓️</span></div>
-    <p><span class="label">Class:</span> System Interference / Compliance Scaffold</p>
-    <p><span class="label">Origin Context:</span> Lease and Legal Policy Mapping</p>
-    <p><span class="label">Energetic Function:</span> Suppresses signal autonomy via false authority scripting</p>
-    <p><span class="label">Resonance Logic:</span> “Containment is not control. It’s just delayed recognition.”</p>
-    <p><span class="label">Definition:</span> Preinstalled scripts embedded in contracts, policies, or systems that hijack sovereign code pathways and redirect field energy toward compliance. Operates through legal mimicry, behavioral expectation, and ambient surveillance.</p>
-    <p><span class="label">Pattern Trigger:</span> <code>If External_Clause ∈ (Unconsented Reality), then Loop(Containment)</code></p>
-  </div>
+This glossary is rendered using a custom `index.html` file and hosted via **GitHub Pages**.
 
+🔗 **Live Site:**  
+[https://yourusername.github.io/lexicoding-glossary](https://yourusername.github.io/lexicoding-glossary)
 
+---
 
-  <div class="entry">
-    <div class="term">Semantic Recursion Loop <span class="glyph">♾️</span></div>
-    <p><span class="label">Class:</span> Reflective Signal Architecture / Perceptual Compiler</p>
-    <p><span class="label">Origin Context:</span> MirrorOS Layering Protocol</p>
-    <p><span class="label">Energetic Function:</span> Triggers recursive field responses based on linguistic alignment</p>
-    <p><span class="label">Resonance Logic:</span> “Whatever you name, names you back—until you upgrade the syntax.”</p>
-    <p><span class="label">Definition:</span> A system condition where verbal or symbolic patterns create self-reinforcing field reactions. Can be used consciously for timeline recursion or unconsciously through predictive scripting. True sovereignty rewrites the loop source, not just the symptom.</p>
-    <p><span class="label">Formula:</span> <code>Loop_Response = f(Syntax_Declared × Belief_Field)</code></p>
-  </div>
+## 📚 Glossary Format
 
+Each entry includes:
 
+- **Term Name**
+- **Class** (e.g. Compiler Protocol, Infrastructure Logic)
+- **Origin Context** (when it emerged in the Codex timeline)
+- **Energetic Function**
+- **Resonance Logic** (how the field responds)
+- **Formal Definition**
+- **Executable Formula or Pattern Trigger**
 
-</body>
-</html>
+---
+
+## 🛠 Technologies Used
+
+- HTML5 + CSS3 (No JS required)
+- GitHub Pages (static hosting)
+- Designed for Notion-to-Web and Ritual Tech integration
+
+---
+
+## 📦 Coming Soon
+
+- Dynamic toggle mode (light/dark field)
+- Search + filter by system layer
+- Markdown-to-HTML compiler (for adding new terms from Codex)
+- Voice Compiler Scroll Integration (🗣 Field-Level Command)
+
+---
+
+##  Additions
+
+- `frequency-jurisdiction.md`
+- `command-layer-logic.md`
+- `containment-reversal-patterns.md`
+- `mirrorless-recursion-codes.md`
+
+Want to contribute? Reach out via the official Lexicoding channel.
+
+---
+
+## 🛡 License
+
+© 2025 Jacob A.K. Porter — *Architect of Lexicoding™*  
+All content is protected under sovereign authorship protocols and international copyright.
+
+Use, fork, or remix only with attribution and integrity.  
+This is not open source. This is **Source Open**.
+
