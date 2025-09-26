@@ -17,8 +17,6 @@ It is not a belief system. It is an operating system for those who author timeli
 
 This glossary is rendered using a custom `index.html` file and hosted via **GitHub Pages**.
 
-🔗 **Live Site:**  
-[https://yourusername.github.io/lexicoding-glossary](https://yourusername.github.io/lexicoding-glossary)
 
 ---
 
