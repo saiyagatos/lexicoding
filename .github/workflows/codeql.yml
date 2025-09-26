@@ -5,8 +5,6 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-  schedule:
-    - cron: '0 2 * * 2'  # Runs weekly on Tuesday at 2:00 UTC
 
 jobs:
   analyze:
@@ -21,7 +19,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        language: [ 'javascript', 'python' ]  # Add more if needed
+        language: [ 'javascript' ]  # Removed Python
 
     steps:
     - name: Checkout repository
